@@ -136,6 +136,7 @@ Make stored knowledge searchable, reusable, and inspectable.
 * [directtt/rag-with-knowledge-base-management](https://github.com/directtt/rag-with-knowledge-base-management) [![Stars](https://img.shields.io/github/stars/directtt/rag-with-knowledge-base-management.svg)](https://github.com/directtt/rag-with-knowledge-base-management) - RAG plus explicit document-management operations.
 * [TensorBlock/awesome-mcp-servers](https://github.com/TensorBlock/awesome-mcp-servers) [![Stars](https://img.shields.io/github/stars/TensorBlock/awesome-mcp-servers.svg)](https://github.com/TensorBlock/awesome-mcp-servers) - Ecosystem surface including knowledge-management and memory-oriented MCP servers.
 * [mbhatt1/maif](https://github.com/mbhatt1/maif) [![Stars](https://img.shields.io/github/stars/mbhatt1/maif.svg)](https://github.com/mbhatt1/maif) - Trustworthy memory format and SDK with tamper-evident audit trails.
+* [louis030195/hyperconsciousness](https://github.com/louis030195/hyperconsciousness) [![Stars](https://img.shields.io/github/stars/louis030195/hyperconsciousness.svg)](https://github.com/louis030195/hyperconsciousness) - Developer-alpha encrypted, append-only note storage with scoped, expiring MCP grants for later recall.
 
 ### Review and Human-in-the-Loop
 

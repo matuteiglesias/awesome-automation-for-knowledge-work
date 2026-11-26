@@ -126,6 +126,7 @@ Reduce information volume while preserving useful signal.
 * [Tavish9/awesome-daily-AI-arxiv](https://github.com/Tavish9/awesome-daily-AI-arxiv) [![Stars](https://img.shields.io/github/stars/Tavish9/awesome-daily-AI-arxiv.svg)](https://github.com/Tavish9/awesome-daily-AI-arxiv) - Public-facing AI research digest.
 * [AadarshMoudgil/Meeting-Notes-Summarizer-LLM-Automation-](https://github.com/AadarshMoudgil/Meeting-Notes-Summarizer-LLM-Automation-) [![Stars](https://img.shields.io/github/stars/AadarshMoudgil/Meeting-Notes-Summarizer-LLM-Automation-.svg)](https://github.com/AadarshMoudgil/Meeting-Notes-Summarizer-LLM-Automation-) - Long meeting transcript summarization into key points, decisions, and action items.
 * [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily) [![Stars](https://img.shields.io/github/stars/Zackriya-Solutions/meetily.svg)](https://github.com/Zackriya-Solutions/meetily) - Privacy-first meeting assistant for capture, transcription, and summarization.
+* [Watch YouTube Highlights workflow](https://github.com/funcove/.github/blob/main/profile/README.md) - Condenses captioned YouTube tutorials into selected original passages and text summaries, with timestamps and full-video context for human source checking. Interactive, freemium Chrome/Firefox workflow using cloud processing.
 
 ### Retrieve and Remember
 
